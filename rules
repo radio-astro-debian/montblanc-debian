@@ -1,0 +1,12 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+
+%:
+	dh $@ --with-python2
+
+
+override_dh_clean:
+	rm -rf montblanc.egg-info
+	dh_clean
+
