@@ -1,5 +1,5 @@
-montblanc (0.1+git20150103-1trusty) trusty; urgency=low
+montblanc (0.4.0-alpha1-1trusty) trusty; urgency=low
 
   * Initial release
 
- -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Tue, 03 Feb 2015 13:40:06 +0200
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Wed, 18 Mar 2015 15:07:40 +0200
